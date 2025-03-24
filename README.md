@@ -50,8 +50,8 @@ Każde zadanie zawiera:
 ## 📥 Instalacja
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoj-login/todo-api.git
-   cd todo-api
+   git clone https://github.com/adakde/ToDoApi.git
+   cd ToDoApi
 
    Zainstaluj zależności:
 
